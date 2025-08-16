@@ -1,6 +1,6 @@
 # mnist-tf-np-cpp
 
-At first i built neural network in TensorFlow it gave faster training time and great accuracy but i wanted to know what happens when you do model.fit() so ibused forward and backward propagation and made it using scratch using python and at last i made it using c++ using Eigen library for matrix manipulations and logic was almost same as python.I compiled the C++ code with -O3 optimization flag which enables aggressive compiler optimizations.
+At first i built neural network in TensorFlow it gave faster training time and great accuracy but i wanted to know what happens when you do model.fit() so i used forward and backward propagation and made it using scratch using python and at last i made it using c++ using Eigen library for matrix manipulations and logic was almost same as python.I compiled the C++ code with -O3 optimization flag which enables aggressive compiler optimizations.
 
 ## The Implementations
 I kept the logic identical across all versions:
